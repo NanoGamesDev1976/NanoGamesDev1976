@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NanoGamesDev1976
 - 👀 I’m interested in back/front and games development 
-- 🌱 I’m currently learning unity,blender,aws,js
+- 🌱 I’m currently learning unity,blender,aws,js,python,ia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
